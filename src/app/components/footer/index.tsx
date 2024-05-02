@@ -8,13 +8,13 @@ export default function Footer() {
       <div className="container">
         <div className="flex justify-center gap-x-10 ">
           <div>
-            <Image src={IconInstagram} alt="instagram" />
+            <IconInstagram alt="instagram" />
           </div>
           <div>
-            <Image src={IconFacebook} alt="facebook" />
+            <IconFacebook alt="facebook" />
           </div>
           <div>
-            <Image src={IconYT} alt="facebook" />
+            <IconYT alt="youtube" />
           </div>
         </div>
       </div>
